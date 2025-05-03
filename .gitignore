@@ -454,3 +454,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+PolishTaxer/Properties/launchSettings.json
